@@ -16,5 +16,4 @@ Present data in a clear, interactive dashboard
 Power BI Desktop
 Microsoft Excel (Data source)
 DAX (Calculated measures)
-
 Data Modeling & Visualization
